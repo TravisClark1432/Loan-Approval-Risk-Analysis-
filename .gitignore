@@ -1,1 +1,4 @@
-loan_approval_dataset.json
+/data
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+.txt
